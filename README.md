@@ -1,5 +1,12 @@
 # AI-Study-planner
-AI Study Planner – VidyaPath
+ AI Study Planner – VidyaPath
+
+Student Details
+
+- Name: Ujjwal Jalotra
+- Registration No.: 25BAI10118
+
+---
 
 Project Overview
 
@@ -73,5 +80,4 @@ Future Improvements
 Conclusion
 
 This project demonstrates how a simple application can help students manage their studies better. It is a beginner-friendly project that combines programming with real-life use.
-
 ---
