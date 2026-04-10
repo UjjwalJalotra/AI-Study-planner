@@ -73,18 +73,27 @@ Example
 Enter number of subjects: 3
 
 Subject name: Data Structures
+
 Difficulty: 5
+
 Importance: 5
+
 Days until exam: 2
 
 Subject name: Environmental Studies
+
 Difficulty: 2
+
 Importance: 3
+
 Days until exam: 6
 
 Subject name: Digital Logic Design
+
 Difficulty: 4
+
 Importance: 4
+
 Days until exam: 3
 
 Total study hours per day: 7
